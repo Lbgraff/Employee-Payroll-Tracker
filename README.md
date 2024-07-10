@@ -16,7 +16,6 @@ I used the Math.random function multiplied by the length of the array in order t
 
 See the screenshots for a visual overview of my functioning application:
 
-<>
+![screenshot](/Assets/image-1.png)
 
-
-
+![screenshot](/Assets/image-2.png)
