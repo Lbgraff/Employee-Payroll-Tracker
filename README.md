@@ -16,9 +16,6 @@ I used the Math.random function multiplied by the length of the array in order t
 
 See the screenshots for a visual overview of my functioning application:
 
+(image-1.png)
+
 (image-2.png)
-
-(<Screen Shot 2024-07-08 at 9.28.29 PM.png>)
-
-
-
